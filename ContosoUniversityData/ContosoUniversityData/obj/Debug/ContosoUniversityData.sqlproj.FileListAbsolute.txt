@@ -1,0 +1,5 @@
+c:\users\david.ndegwa\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+c:\users\david.ndegwa\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+c:\users\david.ndegwa\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+c:\users\david.ndegwa\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+c:\users\david.ndegwa\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
